@@ -12,8 +12,6 @@ For any questions, when in doubt, or more detailed conversations please create a
 4. **Commit changes** → open a **Pull Request**.
 5. A maintainer will triage and merge; once fixed, the item is moved to **`## Resolved`**.
 
-> Prefer issues instead? Use the **“New errata”** issue form (optional) — it will remind you of the same fields. But the primary workflow is **PRs to `ERRATA.md`**.
-
 ## Why one Markdown file?
 
 * Keeps contribution super simple — no tooling, no cloning required.

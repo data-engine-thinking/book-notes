@@ -29,11 +29,14 @@ This file is the place to report errors, typos, and unclear passages.
 
 ## Example
 
-Please copy this example to the designedated chapter section when reporting a new issue.
+Please copy this example to the designated chapter section when reporting a new issue. Please create a new section header (four hashes in markdown) for each new issue.
 
-**Description:** Typo - "engine" should be "engine"
-**Location:** Page 123
-**Reporter:** @johndoe
+**Description:
+
+** Typo - "engine" should be "engine"
+
+* **Location:** Page 123
+* **Reporter:** @johndoe
 
 ## Issues
 
@@ -87,8 +90,8 @@ Should be:
 
 ```COALESCE_TRIM(CONVERT(NVARCHAR(MAX),Sat1.<Column 3>)),`~!@|N/A') + '\@"' +```
 
-**Location:** Page 583
-**Reporter:** @roelantvos
+* **Location:** Page 583
+* **Reporter:** @roelantvos
 
 ### Chapter 12
 
@@ -105,8 +108,8 @@ In the information Model diagram there is a line drawn from 'Branch' to 'Hub Emp
 
 The sameapplies to the mapping to the physical model on the next page.
 
-**Location:** Page 663/664
-**Reporter:** @roelantvos
+* **Location:** Page 663/664
+* **Reporter:** @roelantvos
 
 ## Resolved
 

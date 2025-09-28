@@ -4,7 +4,7 @@ Please submit corrections by editing the [`errata.md`](./ERRATA.md) markdown fil
 
 For any questions, when in doubt, or more detailed conversations please create an issue via Github.
 
-## How it works - via Github
+## How it works
 
 1. Click **`errata.md` → ✏️ Edit (pencil icon)** on GitHub.
 2. **Copy the template** below and paste it at the **bottom** of the file under **`## Open reports`**.

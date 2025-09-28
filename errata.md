@@ -29,10 +29,9 @@ This file is the place to report errors, typos, and unclear passages.
 
 ## Example
 
-Please copy this example when reporting a new issue.
+Please copy this example to the designedated chapter section when reporting a new issue.
 
 **Description:** Typo - "engine" should be "engine"
-**Chapter:** 8
 **Location:** Page 123
 **Reporter:** @johndoe
 
@@ -74,9 +73,22 @@ N/A
 
 N/A
 
-### Chapter 11
+### Chapter 11 - Getting the data out
 
-N/A
+#### Code copy/paste error on page 583
+
+**Description:**
+
+The 3rd COALESCE line refers to the wrong column (is 1, should be 3).
+
+```COALESCE_TRIM(CONVERT(NVARCHAR(MAX),Sat1.<Column 1>)),`~!@|N/A') + '\@"' +```
+
+Should be:
+
+```COALESCE_TRIM(CONVERT(NVARCHAR(MAX),Sat1.<Column 3>)),`~!@|N/A') + '\@"' +```
+
+**Location:** Page 583
+**Reporter:** @roelantvos
 
 ### Chapter 12
 
@@ -85,13 +97,14 @@ The list of open book errata.
 Copy the example. Paste new reports below this line. Keep the newest at the bottom to reduce merge conflicts.
 -->
 
+#### Information Model linkage diagrams page 663/664
+
 **Description:**
 
 In the information Model diagram there is a line drawn from 'Branch' to 'Hub Employee' and 'Link Employment'. However, these should have been linked from the 'Employee' concept in the Information Model. Branch itself only goes to 'Hub Branch' and 'Sat Branch'.
 
 The sameapplies to the mapping to the physical model on the next page.
 
-**Chapter:** 12
 **Location:** Page 663/664
 **Reporter:** @roelantvos
 

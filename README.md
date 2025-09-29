@@ -1,6 +1,6 @@
 # 📚 Data Engine Thinking Book Errata & Issues
 
-Thanks for helping improve the book! The easiest way to contribute is by editing [`errata.md`](./ERRATA.md) markdown file directly in GitHub's web UI. It is also perfectly possible to clone this repository, create a branch with your changes, and submit a Pull Request (PR).
+Thanks for helping improve the book! The easiest way to contribute is by editing [`errata.md`](./errata.md) markdown file directly in GitHub's web UI. It is also perfectly possible to clone this repository, create a branch with your changes, and submit a Pull Request (PR).
 
 For any questions, or when you're in doubt, or when you would like a more detailed conversations please create an issue via Github.
 

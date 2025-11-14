@@ -62,7 +62,14 @@ N/A
 
 ### Chapter 6
 
-N/A
+#### Typo in diagram in 'Creating the audit trail'
+
+**Description:**
+
+There is a typo in the Module Administration image. On the last line HR_EMPLOYE should be *HR_EMPLOYEE*.
+
+* **Location:** Page 179
+* **Reporter:** @roelantvos
 
 ### Chapter 7
 
